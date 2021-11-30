@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://TheEdenDao.com
+
+# Sitemaps
+Sitemap: https://TheEdenDao.com/sitemap.xml
