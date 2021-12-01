@@ -73,7 +73,7 @@ const Navbar: React.FC = () => (
 
 const Hero: React.FC = () => (
   <Flex
-    mt={["10vh", null, "20vh"]}
+    mt="10vh"
     w={["90vw", null, "80vw"]}
     maxW={1024}
     align="center"
