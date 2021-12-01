@@ -8,6 +8,7 @@ import {
   SimpleGrid,
   VStack,
 } from "@chakra-ui/react"
+import { NextSeo } from "next-seo"
 import Image from "next/image"
 import NextLink from "next/link"
 import React from "react"
@@ -16,6 +17,7 @@ import { RiExternalLinkLine } from "react-icons/ri"
 
 const HomePage: React.FC = () => (
   <Layout>
+    <NextSeo title="Unf*** the planet" />
     <Navbar />
     <Hero />
   </Layout>
@@ -89,7 +91,7 @@ const Hero: React.FC = () => (
       background="rgba(0, 0, 0, 0.6)"
       backdropFilter="blur(100px)"
     >
-      <Heading fontFamily="Px Grotesk Regular" size="3xl" lineHeight={1.2}>
+      <Heading size="3xl" lineHeight={1.2}>
         The Eden Dao is our collective journey to unfucking the planet.
       </Heading>
       <Heading fontSize={24} fontWeight={400}>
