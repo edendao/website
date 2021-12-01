@@ -1,3 +1,5 @@
+import "styles/global.scss"
+
 /* eslint-disable react/jsx-props-no-spreading */
 import createEmotionServer from "@emotion/server/create-instance"
 import Document, {
@@ -69,13 +71,8 @@ export default class extends Document {
             crossOrigin="true"
           />
           <link
-            href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;800&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
             rel="stylesheet"
-          />
-          <link
-            href="https://db.onlinewebfonts.com/c/9527a4c4f55e8075eb6a60fe577d89c4?family=Px+Grotesk+Regular"
-            rel="stylesheet"
-            type="text/css"
           />
           {/* add your own app-icon */}
           {/* <link
