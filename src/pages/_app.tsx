@@ -1,3 +1,5 @@
+import "styles/global.scss"
+
 import { ChakraProvider } from "@chakra-ui/react"
 import { CacheProvider } from "@emotion/react"
 import { DefaultSeo } from "next-seo"
