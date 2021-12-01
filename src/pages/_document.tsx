@@ -73,7 +73,7 @@ export default class extends Document {
             rel="stylesheet"
           />
           <link
-            href="//db.onlinewebfonts.com/c/9527a4c4f55e8075eb6a60fe577d89c4?family=Px+Grotesk+Regular"
+            href="https://db.onlinewebfonts.com/c/9527a4c4f55e8075eb6a60fe577d89c4?family=Px+Grotesk+Regular"
             rel="stylesheet"
             type="text/css"
           />
