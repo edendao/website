@@ -4,7 +4,7 @@ import { DefaultSeo } from "next-seo"
 import { AppProps } from "next/app"
 import Head from "next/head"
 import createEmotionCache from "styles/createEmotionCache"
-import customTheme from "styles/customTheme"
+import customTheme from "styles/theme"
 
 import defaultSEOConfig from "../../next-seo.config"
 

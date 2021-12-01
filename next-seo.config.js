@@ -12,14 +12,13 @@ const defaultSEOConfig = {
     url,
     title,
     description: "Unf*** the planet",
-    images: [
-    ],
+    images: [],
     site_name: title,
   },
   twitter: {
     handle: "@TheEdenDao",
     cardType: "summary_large_image",
   },
-};
+}
 
-export default defaultSEOConfig;
+export default defaultSEOConfig

@@ -72,6 +72,11 @@ export default class extends Document {
             href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;800&display=swap"
             rel="stylesheet"
           />
+          <link
+            href="//db.onlinewebfonts.com/c/9527a4c4f55e8075eb6a60fe577d89c4?family=Px+Grotesk+Regular"
+            rel="stylesheet"
+            type="text/css"
+          />
           {/* add your own app-icon */}
           {/* <link
             rel="apple-touch-icon"
