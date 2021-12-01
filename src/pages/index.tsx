@@ -47,7 +47,7 @@ const Navbar: React.FC = () => (
       mx="auto"
     >
       <HStack spacing={4} color="white" justify={["center", null, "initial"]}>
-        <Image src="/favicon.png" height={42} width={42} />
+        <Image src="/logo.png" height={42} width={42} />
         <Link isExternal href="/" as={NextLink}>
           Our Mission
         </Link>

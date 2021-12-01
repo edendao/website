@@ -74,13 +74,12 @@ export default class extends Document {
             href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap"
             rel="stylesheet"
           />
-          {/* add your own app-icon */}
-          {/* <link
+          <link
             rel="apple-touch-icon"
             sizes="180x180"
             href="/icons/apple-touch-icon.png"
           />
-          <link rel="shortcut icon" href="/app-icon.png" /> */}
+          <link rel="shortcut icon" href="/logo.png" />
           <link rel="manifest" href="/manifest.json" />
         </Head>
         <body>
